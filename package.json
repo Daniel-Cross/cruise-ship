@@ -1,0 +1,22 @@
+{
+  "name": "cruise-ship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniel-Cross/cruise-ship.git"
+  },
+  "author": "Daniel Cross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniel-Cross/cruise-ship/issues"
+  },
+  "homepage": "https://github.com/Daniel-Cross/cruise-ship#readme",
+  "dependencies": {
+    "jest": "^24.6.0"
+  }
+}
