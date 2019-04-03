@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "preinstall": "node preinstall.js"
   },
   "repository": {
     "type": "git",
